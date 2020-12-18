@@ -13,7 +13,6 @@ catalogue==1.0.0
 certifi==2020.11.8
 chromedriver-binary==74.0.3729.6.0
 click==7.1.2
-clyent==1.2.2
 conda==4.9.2
 conda-build==3.18.9
 conda-verify==3.4.2
