@@ -42,7 +42,6 @@ labelImg==1.8.3
 libarchive-c==2.9
 libusb==1.0.22b9
 matplotlib==3.3.3
-menuinst==1.4.16
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
