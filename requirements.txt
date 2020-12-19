@@ -85,9 +85,5 @@ tensorflow==2.1.0
 testpath==0.4.4
 textblob==0.15.3
 textsearch==0.0.17
-umucv==0.3
-Unidecode==1.1.1
 utils==1.0.1
-webencodings==0.5.1
 wordcloud==1.7.0
-wrapt==1.12.1
